@@ -1,5 +1,5 @@
 ---
-  - name: Install Java
-    hosts: all
-    roles:
-      - java
+- name: Install Java
+  hosts: all
+  roles:
+    - java
